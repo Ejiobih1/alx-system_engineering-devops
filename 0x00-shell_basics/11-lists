@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l
+script that list all files in the current directoryandthe parent of theworking directory
